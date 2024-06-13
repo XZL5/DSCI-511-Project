@@ -1,0 +1,14 @@
+Required packages for our Python project:
+- Bokeh
+- Dash
+- Ta-Lib
+- Backtesting.py
+- Polygon
+- Numpy
+- Pandas
+
+Installation Instructions:
+1. pip install bokeh==3.2.1 #versions below or above v3.2.1 may not work.
+2. pip install dash talib Backtesting polygon numpy
+
+First install bokeh. After bokeh installation completes, then run the second code line to install remaing required packages. Please add pandas to the code line, if Pandas not already installed.
